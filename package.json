@@ -1,0 +1,30 @@
+{
+  "name": "react-native-platform-render",
+  "version": "1.0.0",
+  "description": "React Native swiss army knife tools to platform conditional render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "render",
+    "multi",
+    "platform",
+    "cross-platform",
+    "conditional",
+    "native",
+    "ios",
+    "universal",
+    "android"
+  ],
+  "author": "Lucas Ferreira <contato@lucasferreira.com>",
+  "license": "MIT",
+  "repository": "https://github.com/lucasferreira/react-native-platform-render",
+  "bugs": "https://github.com/lucasferreira/react-native-platform-render/issues",
+  "peerDependencies": {
+    "react-native": ">=0.19"
+  }
+}
